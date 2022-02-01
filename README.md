@@ -53,3 +53,14 @@
 
  Exchange:
  https://api.thegraph.com/subgraphs/name/degen-haus/farming-exchange
+
+ Info:
+ https://api.thegraph.com/subgraphs/name/cryptoinhero/degenswap-exchange/graphql
+
+
+ Join the Haus on Discord or Telegram and one of our community members will be able to assist
+
+ theanks for looking
+
+ Cheynespc
+ 
