@@ -60,7 +60,6 @@
 
  Join the Haus on Discord or Telegram and one of our community members will be able to assist
 
- theanks for looking
+ Thanks for looking hoping to see you in the Degen Haus.
 
- Cheynespc
- 
+ Cheynespc :)
