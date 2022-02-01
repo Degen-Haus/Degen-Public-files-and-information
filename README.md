@@ -4,45 +4,45 @@
 
  Links:
 
- 💱DEX-UI : https://app.degen.haus
+ 💱 DEX-UI : https://app.degen.haus
 
- 🚜Farm : https://app.degen.haus/farms
+ 🚜 Farm : https://app.degen.haus/farms
 
- 📊Analytics : https://app.degen.haus/info
+ 📊 Analytics : https://app.degen.haus/info
 
- 🌐Website : https://www.degen.haus
+ 🌐 Website : https://www.degen.haus
 
- 🎮Discord : https://discord.com/invite/degenhaus
+ 🎮 Discord : https://discord.com/invite/degenhaus
 
- ✈Telegram : https://t.me/DegenHouse
+ ✈ Telegram : https://t.me/DegenHouse
 
- 🐦Twitter : https://twitter.com/HouseDegen
+ 🐦 Twitter : https://twitter.com/HouseDegen
 
- 🐙Github : https://github.com/Degen-Haus
+ 🐙 Github : https://github.com/Degen-Haus
 
- 🔎Explorer : https://ftmscan.com
+ 🔎 Explorer : https://ftmscan.com
 
- 📖Whitepaper : https://docs.degen.haus
+ 🧾 Whitepaper : https://docs.degen.haus
 
+ 📖 Contracts:
 
+ DegenMasterChef:
+ 0x72A7A3770B4BC999026F3663F1534581E0c59f2a
 
-Contracts:
+ DegenHausFactory:
+ 0xA01C3d760738c79e10334408aE59684Aa36B1131
 
-DegenMasterChef:
-0x72A7A3770B4BC999026F3663F1534581E0c59f2a
+ DegenHausRouter:
+ 0xcdA8f0fB4132D977AD427d18555E0cb1b1dfA363
 
-DegenHausFactory:
-0xA01C3d760738c79e10334408aE59684Aa36B1131
-
-DegenHausRouter:
-0xcdA8f0fB4132D977AD427d18555E0cb1b1dfA363
-
-
-
+ DegenSmartChef (Soon):
+ 0x9F8D9682F6fE2f9901FC5278b0aFF3A1599eB79d
 
 
 
- Degen Haus API information
+
+
+ 📑 Degen Haus API information
 
  The Graph Profile:
  https://thegraph.com/hosted-service/subgraph/degen-haus/
